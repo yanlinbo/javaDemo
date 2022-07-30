@@ -2,6 +2,9 @@ package com.ylb.utils;
 
 import cn.hutool.core.lang.Singleton;
 
+/**
+ * 分布式全局唯一id - 雪花算法
+ */
 public class SnowFlake {
 
     private static final long START_STMP = 1420041600000L;
