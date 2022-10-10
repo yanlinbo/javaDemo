@@ -1,4 +1,4 @@
-package com.ylb.demoTest.designPattern.bridge;
+package com.ylb.demoTest.designPattern.bridge.learn;
 
 /**
  * 管理这两家公司

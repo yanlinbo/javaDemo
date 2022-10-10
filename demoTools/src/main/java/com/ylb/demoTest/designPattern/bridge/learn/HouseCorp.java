@@ -1,4 +1,4 @@
-package com.ylb.demoTest.designPattern.bridge;
+package com.ylb.demoTest.designPattern.bridge.learn;
 
 /**
  * 第三步：定义具体的赚钱公司：房地产公司

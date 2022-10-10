@@ -1,4 +1,4 @@
-package com.ylb.demoTest.designPattern.bridge;
+package com.ylb.demoTest.designPattern.bridge.learn;
 
 /**
  * 第一步：先定义一个抽象的类

@@ -1,4 +1,4 @@
-package com.ylb.demoTest.designPattern.bridge;
+package com.ylb.demoTest.designPattern.bridge.learn;
 
 public class ClothsCorp extends Corperation {
     @Override
